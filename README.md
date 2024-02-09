@@ -31,17 +31,18 @@ Software Engineer, Nest Digital Private Limited (July 2022-
  # Certifications
  <ol>
   <li>Java Basic,SQL Basic and Angular Basic from HackerRank</li>
-  <li>Published a paper on the topic ‘Machine Learning Methodology with SE in Health System: A Review Study on SEMLHI’ in the International Journal of Science and Research (IJSR) ISSN: </li>
+  <li>Published a paper on the topic ‘Machine Learning Methodology with SE in Health System: A Review Study on SEMLHI’ in the International Journal of Science and Research (IJSR) ISSN: 2319-7064 </li>
   <li>Cloud Computing (8week course from IIT Kharagpur Feb-Apr 2021).</li>
   <li>Database Management System (8week course from IIT Kharagpur Jan-Mar 2020).</li>
  </ol>
+ 
 # Strengths
 <ul>
 <li>Adaptability </li> <br>
 <li>Presentation Skill</li> <br>
 <li>Responsibility</li>  <br>
 <li>Communication Skill</li> <br>
-<li>Team Work</li> 
+<li>Team Work</li> <br>
 <li>Time Management</li></ul>
  
  # Hobbies
