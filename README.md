@@ -1,7 +1,7 @@
 # Elda_Dani_Resume
 
 # Contact
-Email : eldadani2001@gmail.com
+Email : eldadani2001@gmail.com <br>
 Phone : 9207669245
 # Objective
 Software Engineer with a passion for problem solving and innovations. Working as a full stack developer and always eager to learn more and grow.
