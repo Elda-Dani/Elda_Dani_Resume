@@ -4,37 +4,49 @@
 Email : eldadani2001@gmail.com <br>
 Phone : 9207669245
 # Objective
-Software Engineer with a passion for problem solving and innovations. Working as a full stack developer and always eager to learn more and grow.
+Software Engineer with a passion for problem solving and innovations. Working as a full stack developer and always eager to learn more and grow.And seeking out opportunities to take on more challenging projects and responsibilities, and proactively learning new skills to continue to grow as a developer.
 
 # Education
 <ul>
-MCA (2024-2026) from Sikkim Manipal University.<br>
+<li>MCA (2024-2026) from Sikkim Manipal University.</li><br>
 <li>BCA (2019-2022) with 78% from Santhigiri College of Computer Sciences, Vazhithala 
 MG University, Kottayam.</li><br>
 <li>Higher Secondary (2017-2019) with 83% from St. Augustine’s Higher Secondary School, 
 Kalloorkad, of Kerala State Education Board.</li><br>
-<li></li>SSLC (2017) with 96% from St. Augustine’s Higher Secondary School, Kalloorkad, of Kerala 
-State Education Board.</li><br>
+<li>SSLC (2017) with 96% from St. Augustine’s Higher Secondary School, Kalloorkad, of Kerala 
+State Education Board.</li>
 </ul>
+
 # Experience
-Software Engineer at Nest Digital (2022-Present)
+Software Engineer, Nest Digital Private Limited (July 2022-
 
  # Technical Skills
- Java Spring Boot<br>
- Angular<br>
- HTML,CSS,JS<br>
- MySQL<br>
- OutSystems<br>
+ <ul>
+<li>Java Spring Boot</li><br>
+ <li>Angular</li> <br>
+ <li>HTML,CSS,JS</li> <br>
+ <li>MySQL</li> <br>
+ <li>OutSystems </li> </ul>
 
+ # Certifications
+ <ol>
+  <li>Java Basic,SQL Basic and Angular Basic from HackerRank</li>
+  <li>Published a paper on the topic ‘Machine Learning Methodology with SE in Health System: A Review Study on SEMLHI’ in the International Journal of Science and Research (IJSR) ISSN: </li>
+  <li>Cloud Computing (8week course from IIT Kharagpur Feb-Apr 2021).</li>
+  <li>Database Management System (8week course from IIT Kharagpur Jan-Mar 2020).</li>
+ </ol>
 # Strengths
- Volunteerism<br>
- Presentation Skill<br>
- Responsibility <br>
- Communication Skill <br>
- Team Work<br>
+<ul>
+<li>Adaptability </li> <br>
+<li>Presentation Skill</li> <br>
+<li>Responsibility</li>  <br>
+<li>Communication Skill</li> <br>
+<li>Team Work</li> 
+<li>Time Management</li></ul>
  
  # Hobbies
-  Self-learning<br>
-  Taking Tuitions<br>
-  Gardening<br>
+ <ul>
+ <li>Self-learning</li> <br>
+ <li>Taking Tuitions</li> <br>
+ <li>Gardening</li>  </ul>
 
