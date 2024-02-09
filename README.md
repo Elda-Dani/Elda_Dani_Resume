@@ -8,6 +8,7 @@ Phone : 9207669245
 Software Engineer with a passion for problem solving and innovations. Working as a full stack developer and always eager to learn more and grow.And seeking out opportunities to take on more challenging projects and responsibilities, and proactively learning new skills to continue to grow as a developer.
 
 # Education
+
 <ul>
 <li>MCA (2024-2026) from Sikkim Manipal University.</li><br>
 <li>BCA (2019-2022) with 78% from Santhigiri College of Computer Sciences, Vazhithala 
