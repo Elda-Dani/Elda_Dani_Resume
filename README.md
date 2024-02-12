@@ -32,7 +32,7 @@ Software Engineer, Nest Digital Private Limited (July 2022-Present).
  <li>MySQL</li> <br>
  <li>OutSystems </li> </ul>
 
- # Certificates
+# Certifications
  
  <ol>
   <li>Java Basic,SQL Basic and Angular Basic from HackerRank.</li>
