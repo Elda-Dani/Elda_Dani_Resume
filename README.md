@@ -23,7 +23,7 @@ State Education Board.</li>
 
 Software Engineer, Nest Digital Private Limited (July 2022-Present).
 
- # Technical Skills
+# Technical Skills
  
  <ul>
 <li>Java Spring Boot</li><br>
@@ -32,7 +32,7 @@ Software Engineer, Nest Digital Private Limited (July 2022-Present).
  <li>MySQL</li> <br>
  <li>OutSystems </li> </ul>
 
- # Certifications
+# Certifications
  
  <ol>
   <li>Java Basic,SQL Basic and Angular Basic from HackerRank.</li>
@@ -51,7 +51,7 @@ Software Engineer, Nest Digital Private Limited (July 2022-Present).
 <li>Team Work</li> <br>
 <li>Time Management</li></ul>
  
- # Hobbies
+# Hobbies
  <ul>
  <li>Self-learning</li> <br>
  <li>Taking Tuitions</li> <br>
