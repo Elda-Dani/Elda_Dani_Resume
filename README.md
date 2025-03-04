@@ -49,6 +49,8 @@ Firebase.</i></p>
   <li>Published a paper on the topic ‘Machine Learning Methodology with SE in Health System: A Review Study on SEMLHI’ in the International Journal of Science and Research (IJSR) ISSN: 2319-7064. </li>
   <li>Cloud Computing (8week course from IIT Kharagpur Feb-Apr 2021).</li>
   <li>Database Management System (8week course from IIT Kharagpur Jan-Mar 2020).</li>
+  <li> Angular Development and Java Spring 
+Boot courses from LinkedIn Learning.</li>
  </ol>
  
 # Strengths
