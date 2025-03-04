@@ -10,7 +10,7 @@ Software Engineer with a passion for problem solving and innovations. Working as
 # Education
 
 <ul>
-<li>MCA (2024-2026) from Sikkim Manipal University.</li><br>
+<li>MCA (2024-2026) with 85% from Sikkim Manipal University.</li><br>
 <li>BCA (2019-2022) with 78% from Santhigiri College of Computer Sciences, Vazhithala 
 MG University, Kottayam.</li><br>
 <li>Higher Secondary (2017-2019) with 83% from St. Augustine’s Higher Secondary School, 
@@ -21,7 +21,15 @@ State Education Board.</li>
 
 # Experience
 
-Software Engineer, Nest Digital Private Limited (July 2022-Present).
+Software Engineer, Nest Digital Private Limited (July 2022-Present). <br>
+<p>Working as a full stack developer in projects. Good exposure in design 
+and development of web application using SpringBoot, Hibernate, 
+Angular, HTML and Java. Developed various modules with respect to 
+design patters such as Factory and Singleton. Worked on unit testing 
+frameworks in like Jasmine and Junit. Developed and maintained web 
+application using OutSystems low-code-platform. Experience in 
+designing and developing of mobile application using Flutter and 
+Firebase.</p>
 
 # Skills
  
