@@ -22,14 +22,14 @@ State Education Board.</li>
 # Experience
 
 Software Engineer, Nest Digital Private Limited (July 2022-Present). <br>
-<p>Working as a full stack developer in projects. Good exposure in design 
+<p><i>Working as a full stack developer in projects. Good exposure in design 
 and development of web application using SpringBoot, Hibernate, 
 Angular, HTML and Java. Developed various modules with respect to 
 design patters such as Factory and Singleton. Worked on unit testing 
 frameworks in like Jasmine and Junit. Developed and maintained web 
 application using OutSystems low-code-platform. Experience in 
 designing and developing of mobile application using Flutter and 
-Firebase.</p>
+Firebase.</i></p>
 
 # Skills
  
