@@ -30,7 +30,9 @@ Software Engineer, Nest Digital Private Limited (July 2022-Present).
  <li>Angular</li> <br>
  <li>HTML,CSS,JS</li> <br>
  <li>MySQL</li> <br>
- <li>OutSystems </li> </ul>
+  <li>TypeScript </li><br>
+ <li>OutSystems </li><br>
+ <li>Flutter </li></ul>
 
 # Certifications
  
